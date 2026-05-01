@@ -19,4 +19,8 @@ Gianna Koski
 - This [StoryMap collection](https://storymaps.arcgis.com/collections/a7272ed0c2844695a67b3849dafd2990) contains all maps I made using ArcGIS Online
 ## Raster Data Analysis
 
-- [NDVI Change - Thomas Fire](https://github.com/yourusername/your-repo/blob/main/raster-data-analysis/ndvi-change-thomas-fire.ipynb)
+- [NDVI Change – Thomas Fire](https://github.com/45bw6tv8zr-hub/gis-project-portfolio-geo441c/blob/main/Raster-Analysis/Gianna_Koski_week_10_raster_analysis_Thomas_fire.ipynb)
+
+## Vector Data Analysis
+- [Age Index](https://github.com/45bw6tv8zr-hub/gis-project-portfolio-geo441c/blob/main/Vector-Analysis/Age_Index.ipynb)  
+- [College Towns in Ohio Map](https://github.com/45bw6tv8zr-hub/gis-project-portfolio-geo441c/blob/main/Vector-Analysis/Gianna_Koskiweek_13_assignment_template.ipynb)
