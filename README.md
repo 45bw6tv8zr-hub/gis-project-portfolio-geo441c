@@ -24,3 +24,7 @@ Gianna Koski
 ## Vector Data Analysis
 - [Age Index](https://github.com/45bw6tv8zr-hub/gis-project-portfolio-geo441c/blob/main/Vector-Analysis/Age_Index.ipynb)  
 - [College Towns in Ohio Map](https://github.com/45bw6tv8zr-hub/gis-project-portfolio-geo441c/blob/main/Vector-Analysis/Gianna_Koskiweek_13_assignment_template.ipynb)
+
+- ## Final Project
+- [Proprosal Slides](https://docs.google.com/presentation/d/1hhChWaeMFTAfUvvE9V2-RRaylyBTVUdrZkH8S1_NgFM/edit?usp=sharing)
+- [Story Map](https://arcg.is/04nXvD0)
